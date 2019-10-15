@@ -15,4 +15,6 @@ int main()
 	printf("%010o\n", x);
 	printf("%10x\n", x);
 	printf("%0#10x\n", x);
+
+	return 0;
 }
